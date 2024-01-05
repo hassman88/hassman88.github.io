@@ -9,7 +9,7 @@ tags: [breeding,missyandfluffy]     # TAG names should always be lowercase
 
 Today I said goodbye to the first lot of this seasons babies. After many weeks of hard work it is good to see the birds all grown up and starting to pick their forever families as was the case with this first one. The buyer met me at my house and I introduced him to the females as this was his preference. During talks with him one of the bird flew to him and started nibbling at his watch, it was then the choice was made and the young pineapple female was then placed into her transport box for the trip to her new home.
 
-<img src="./assets/firstsale/pine1.jpeg" width="40%" height="40%")
+![pineapple 1](/assets/firstsale/pine1.jpeg")
 ![group 1](/assets/firstsale/group1.jpg)
 ![pineapple 2](/assets/firstsale/pine2.jpeg)
 
